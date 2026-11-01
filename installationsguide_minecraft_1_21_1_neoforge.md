@@ -76,6 +76,11 @@ Download følgende 5 filer til din computer:
 | **Moretransport** | `moretransport_bike-0.3.0.jar` | https://www.curseforge.com/minecraft/mc-mods/moretransport-motorbike/download/9191740 |
 | **pokebike** | `pokebike-neoforge-4.0.jar` | https://www.curseforge.com/minecraft/mc-mods/pokebike/download/9272596 |
 | **OAmP** | `OAmP-1.21.1-V3.jar` | https://www.curseforge.com/minecraft/mc-mods/mts-iv-official-automobile-pack/download/7933542 |
+| **Immersive Vehicles** | `Immersive Vehicles-1.21.1-24.0.0.jar` | https://www.curseforge.com/minecraft/mc-mods/minecraft-transport-simulator/download/7926606 |
+| **MTS Official** | `MTS Official Pack-1.21.1-V29.jar` | https://www.curseforge.com/minecraft/mc-mods/transport-simulator-official-vehicle-set/download/7933734 |
+| **architectury** | `architectury-13.0.11-neoforge.jar` | https://www.curseforge.com/minecraft/mc-mods/architectury-api/download/8492726 |
+
+
 
 
 
