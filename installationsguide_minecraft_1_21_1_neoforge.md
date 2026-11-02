@@ -74,14 +74,14 @@ Download følgende 5 filer til din computer:
 | **NTGL (NukaTeam's Gun Lib)** | `ntgl-1.21.1-3.2.0.jar` | [Download NTGL](https://www.curseforge.com/minecraft/mc-mods/nukateams-gun-lib/download/8585353) |
 | **Cozy Home** | `CozyHome-NeoForge-1.21.1-v1.1.1.jar` | [Download Cozy Home](https://www.curseforge.com/minecraft/mc-mods/cozy-home-forge-neoforge-port/download/8858411) |
 | **Moretransport** | `moretransport_bike-0.3.0.jar` | https://www.curseforge.com/minecraft/mc-mods/moretransport-motorbike/download/9191740 |
-| **pokebike** | `pokebike-neoforge-4.0.jar` | https://www.curseforge.com/minecraft/mc-mods/pokebike/download/9272596 |
 | **OAmP** | `OAmP-1.21.1-V3.jar` | https://www.curseforge.com/minecraft/mc-mods/mts-iv-official-automobile-pack/download/7933542 |
 | **Immersive Vehicles** | `Immersive Vehicles-1.21.1-24.0.0.jar` | https://www.curseforge.com/minecraft/mc-mods/minecraft-transport-simulator/download/7926606 |
 | **MTS Official** | `MTS Official Pack-1.21.1-V29.jar` | https://www.curseforge.com/minecraft/mc-mods/transport-simulator-official-vehicle-set/download/7933734 |
 | **architectury** | `architectury-13.0.11-neoforge.jar` | https://www.curseforge.com/minecraft/mc-mods/architectury-api/download/8492726 |
 
 
-
+***Udgået mods:***
+| **pokebike** | `pokebike-neoforge-4.0.jar` | https://www.curseforge.com/minecraft/mc-mods/pokebike/download/9272596 |
 
 
 
