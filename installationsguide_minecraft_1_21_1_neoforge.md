@@ -86,6 +86,9 @@ Download følgende 5 filer til din computer:
 | **domum-ornamentum** | `domum-ornamentum-1.0.237-snapshot-main.jar` | https://www.curseforge.com/minecraft/mc-mods/domum-ornamentum/download/9394376 |
 | **structurize** | `structurize-1.0.837-1.21.1-snapshot.jar` | https://www.curseforge.com/minecraft/mc-mods/structurize/download/9333948 |
 | **Pam's HarvestCraft 2** | `pamhc2foodextended-NEOFORGE-1.21.1-1.0.0.jar` | https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-food-extended/download/6221521 |
+| **Pam's HarvestCraft 2 - Food Core** | `pamhc2foodcore-NEOFORGE-1.21.1-1.0.4.jar` | https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-food-core/download/6919485 |
+| **Pam's HarvestCraft 2 - Crops** | `pamhc2crops-NEOFORGE-1.21.1-1.0.9.jar` | https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-crops/download/8064883 |
+
 
 ***Udgået mods:***
 | **pokebike** | `pokebike-neoforge-4.0.jar` | https://www.curseforge.com/minecraft/mc-mods/pokebike/download/9272596 |
