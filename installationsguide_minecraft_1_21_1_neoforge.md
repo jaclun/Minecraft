@@ -79,7 +79,8 @@ Download følgende 5 filer til din computer:
 | **MTS Official** | `MTS Official Pack-1.21.1-V29.jar` | https://www.curseforge.com/minecraft/mc-mods/transport-simulator-official-vehicle-set/download/7933734 |
 | **architectury** | `architectury-13.0.11-neoforge.jar` | https://www.curseforge.com/minecraft/mc-mods/architectury-api/download/8492726 |
 | **framework** | `framework-neoforge-26.3-0.13.27.jar` | https://www.curseforge.com/minecraft/mc-mods/framework/download/9054859 |
-
+| **Minecolonies** | `minecoloniesphfe-1.0.0.jar`|| https://www.curseforge.com/minecraft/mc-mods/minecolonies-pams-harvestcraft-2-food-extended/download/8147481|
+| **MCTier Library** | `mctier_engine-1.0.0.jar`| https://www.curseforge.com/minecraft/mc-mods/mctier-library/download/8123069 |
 
 ***Udgået mods:***
 | **pokebike** | `pokebike-neoforge-4.0.jar` | https://www.curseforge.com/minecraft/mc-mods/pokebike/download/9272596 |
