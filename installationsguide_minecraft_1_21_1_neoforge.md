@@ -82,6 +82,7 @@ Download følgende 5 filer til din computer:
 | **Minecolonies** | `minecoloniesphfe-1.0.0.jar`|| https://www.curseforge.com/minecraft/mc-mods/minecolonies-pams-harvestcraft-2-food-extended/download/8147481|
 | **MCTier Library** | `mctier_engine-1.0.0.jar`| https://www.curseforge.com/minecraft/mc-mods/mctier-library/download/8123069 |
 | **minecolonies** | `minecolonies-1.1.1411-1.21.1-snapshot.jar` | https://www.curseforge.com/minecraft/mc-mods/minecolonies/download/9401752 |
+| **blockui** | `blockui-1.0.212-1.21.1-snapshot.jar` | https://www.curseforge.com/minecraft/mc-mods/blockui/download/9137005 |
 
 ***Udgået mods:***
 | **pokebike** | `pokebike-neoforge-4.0.jar` | https://www.curseforge.com/minecraft/mc-mods/pokebike/download/9272596 |
