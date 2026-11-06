@@ -83,6 +83,8 @@ Download følgende 5 filer til din computer:
 | **MCTier Library** | `mctier_engine-1.0.0.jar`| https://www.curseforge.com/minecraft/mc-mods/mctier-library/download/8123069 |
 | **minecolonies** | `minecolonies-1.1.1411-1.21.1-snapshot.jar` | https://www.curseforge.com/minecraft/mc-mods/minecolonies/download/9401752 |
 | **blockui** | `blockui-1.0.212-1.21.1-snapshot.jar` | https://www.curseforge.com/minecraft/mc-mods/blockui/download/9137005 |
+| **domum-ornamentum** | `domum-ornamentum-1.0.237-snapshot-main.jar` | https://www.curseforge.com/minecraft/mc-mods/domum-ornamentum/download/9394376 |
+| **structurize** | ´structurize-1.0.837-1.21.1-snapshot.jar´ | https://www.curseforge.com/minecraft/mc-mods/structurize/download/9333948 |
 
 ***Udgået mods:***
 | **pokebike** | `pokebike-neoforge-4.0.jar` | https://www.curseforge.com/minecraft/mc-mods/pokebike/download/9272596 |
